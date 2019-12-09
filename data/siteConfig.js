@@ -1,10 +1,10 @@
 module.exports = {
-  siteTitle: 'Hi! I\'m Francisco!',
-  siteDescription: `Create your online curriculum in just a few minutes with this starter`,
+  siteTitle: 'Hi! I\'m Heather!',
+  siteDescription: `Web Developer CV`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
-  authorName: 'Francisco Santos',
-  twitterUsername: '_franciscodf',
-  githubUsername: 'santosfrancisco',
+  authorName: 'Heather Preiss',
+  twitterUsername: '',
+  githubUsername: 'hpreiss42',
   authorAvatar: '/images/avatar.jpeg',
   authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
     In 2012 I started working as a support technician and I approached the developers.
@@ -17,75 +17,56 @@ module.exports = {
     },
     {
       name: 'CSS',
-      level: 60
+      level: 70
     },
     {
       name: 'Javascript',
-      level: 50
-    },
-    {
-      name: 'NodeJs',
       level: 40
     },
     {
+      name: 'NodeJs',
+      level: 30
+    },
+    {
       name: 'React',
-      level: 60
+      level: 40
     },
     {
       name: 'Git',
-      level: 70
+      level: 50
     }
   ],
   jobs: [
     {
-      company: "Lendico",
+      company: "Noisy Trumpet",
       begin: {
-        month: 'apr',
-        year: '2018'
+        month: 'May',
+        year: '2019'
       },
       duration: null,
-      occupation: "Frontend developer",
-      description: "I integrate the Frontend team responsible for developing and maintaining the online lending platform."
-  
-    }, {
-      company: "Anapro",
-      begin: {
-        month: 'dec',
-        year: '2016'
-      },
-      duration: '1 yr e 5 mos',
-      occupation: "Fullstack developer",
-      description: "Development and maintenance, corrective and preventive, of web applications for the real estate market."
-    }, {
-      company: "Anapro",
-      begin: {
-        month: 'set',
-        year: '2012'
-      },
-      duration: '4 yrs e 3 mos',
-      occupation: "Support Technician",
-      description: "Responsible for the implementation and parameterization of the system, training and customer support. Acting also in person in real estate launches guaranteeing the success and good use of the tool."
+      occupation: "Web Developer Intern",
+      description: "..."
   
     },
     /* ... */
   ],
   social: {
-    twitter: "https://twitter.com/_franciscodf",
-    linkedin: "https://www.linkedin.com/in/santos-francisco",
-    github: "https://github.com/santosfrancisco",
-    email: "yoshi.df@gmail.com"
+    twitter: "https://twitter.com/",
+    linkedin: "https://www.linkedin.com/in/",
+    github: "https://github.com/hpreiss42",
+    email: ""
   },
-  siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
+  siteUrl: 'https://hpreiss42.github.io/portfolio-cv/',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
-  googleAnalyticsId: 'UA-000000000-1',
+  googleAnalyticsId: '',
   background_color: '#ffffff',
   theme_color: '#25303B',
   display: 'minimal-ui',
   icon: 'src/assets/gatsby-icon.png',
   headerLinks: [
     {
-      label: 'Francisco Santos',
+      label: 'Heather Preiss',
       url: '/',
     }
   ]
