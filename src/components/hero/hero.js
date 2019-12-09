@@ -25,7 +25,7 @@ const HeroTitle = styled.h1`
   font-size: 3rem;
   margin: 10px 60px;
   color: #fff;
-  text-shadow: 1px 1px 4px rgba(34, 34, 34, 0.6);
+  text-shadow: 2px 2px 4px rgba(63, 45, 84, 0.8);
 `
 
 class Hero extends React.Component {
