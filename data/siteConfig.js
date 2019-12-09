@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Hi! I\'m Heather!',
+  siteTitle: 'Hello! I\'m Heather!',
   siteDescription: `Web Developer CV`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
   authorName: 'Heather Preiss',
@@ -51,13 +51,13 @@ module.exports = {
     /* ... */
   ],
   social: {
-    twitter: "https://twitter.com/",
-    linkedin: "https://www.linkedin.com/in/",
+    twitter: "",
+    linkedin: "",
     github: "https://github.com/hpreiss42",
     email: ""
   },
   siteUrl: 'https://hpreiss42.github.io/portfolio-cv/',
-  pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
+  pathPrefix: '/portfolio-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
   googleAnalyticsId: '',
   background_color: '#ffffff',
