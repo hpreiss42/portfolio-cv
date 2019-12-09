@@ -96,7 +96,7 @@ export default styled(Home)`
   }
 
   .avatar__image {
-    box-shadow: 3px 3px 15px 0px rgba(63, 45, 84, 0.8);
+    box-shadow: 3px 3px 15px 0px rgba(0,0,0,0.75);
     max-width: 200px;
     border-radius: 100px;
     margin: 0 auto 24px;
@@ -117,7 +117,7 @@ export default styled(Home)`
   }
 
   a.social-link.github:hover {
-    color: #3f2d54;
+    color: #24292e;
   }
 
   a.social-link.linkedin:hover {

@@ -23,7 +23,7 @@ export default styled(SkillBar)`
     padding: 1px;
   }
   .skill__level {
-    background-color: #3f2d54;
+    background-color: #25303B;
     width: ${p => p.level || 0}%;
     height: 8px;
   }
