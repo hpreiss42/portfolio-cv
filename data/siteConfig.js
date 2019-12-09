@@ -61,7 +61,7 @@ module.exports = {
   siteCover: '/images/cover.jpeg',
   googleAnalyticsId: '',
   background_color: '#ffffff',
-  theme_color: '#25303B',
+  theme_color: '#2f253b',
   display: 'minimal-ui',
   icon: 'src/assets/gatsby-icon.png',
   headerLinks: [
