@@ -10,7 +10,8 @@ import SEO from '../components/SEO'
 import Wrapper from '../components/wrapper'
 import About from '../components/about'
 import Skills from '../components/skills'
-import Timeline from '../components/timeline'
+import TimelineJob from '../components/timeline'
+import TimelineSchool from '../components/timelineSchools'
 import Repositories from '../components/repositories'
 
 const Separator = styled.hr`
@@ -28,6 +29,7 @@ class Home extends React.Component {
     const title = siteConfig.siteTitle
     const {keywords} = siteConfig
     return (
+      <div id="pageBG">
       <Layout location={this.props.location}>
         <SEO
           title={title}
@@ -45,7 +47,7 @@ class Home extends React.Component {
               <Col xs={4} className='avatar'>
                 <img
                   className='avatar__image'
-                  src='/images/avatar.jpeg'
+                  src='/images/avatar.jpg'
                   alt='user avatar'
                 />
                 <div className="social">
@@ -73,12 +75,15 @@ class Home extends React.Component {
               </Col>
             </Row>
             <Separator />
-            <Timeline />
+            <TimelineJob />
+            <Separator />
+            <TimelineSchool />
             <Separator />
             <Repositories />
           </Container>
         </Wrapper>
       </Layout>
+      </div>
     )
   }
 }
