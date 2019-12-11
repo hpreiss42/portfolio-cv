@@ -47,8 +47,8 @@ class Home extends React.Component {
               <Col xs={4} className='avatar'>
                 <img
                   className='avatar__image'
-                  src='/images/avatar.jpg'
-                  alt='user avatar'
+                  src='/images/portrait.jpg'
+                  alt='user portrait'
                 />
                 <div className="social">
                   {siteConfig.social.github && <a className="social-link github" href={siteConfig.social.github}>

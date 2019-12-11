@@ -5,7 +5,7 @@ module.exports = {
   authorName: 'Heather Preiss',
   twitterUsername: '',
   githubUsername: 'hpreiss42',
-  authorAvatar: '/images/avatar.jpg',
+  authorAvatar: '/images/portrait.jpg',
   authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
     In 2012 I started working as a support technician and I approached the developers.
     In 2015, I started to study C # and started to contribute with the team giving maintenance in an application in C # and .NET. <br />
@@ -78,7 +78,7 @@ module.exports = {
       },
       duration: null,
       major: "A.A.S. Digital Media",
-      description: "..."
+      description: "Northwest Vista College the NVC ranked No. 1 community college in San Antonio. The Digital Media graduate, developed skills in web & graphic, interface design best practices, HTML, CSS, JavaScripting, 508 compliance, JQuery, Mobile technology, Content Management Systems, Adobe Creative Suite, social media applications, SCORM compliance and much more"
     },
     {
       name: "Alamo Community Colleges",
@@ -88,7 +88,7 @@ module.exports = {
       },
       duration: 'to November 2017',
       major: "CompTIA A+ and Network+",
-      description: "..."
+      description: "Achieved CompTIA A+, as well as meeting network fundamentals objectives, system understanding in installation, configuration and maintenance."
     },
     {
       name: "Rackspace Open Cloud Academy",
@@ -98,7 +98,7 @@ module.exports = {
       },
       duration: '8.5 weeks',
       major: "Linux System Administration",
-      description: "The OCA provides bootcamp style technical training."
+      description: "The OCA provides bootcamp style technical training. Achieved Linux Administration- RHCSA - RHEL 7.0, as well as meeting network fundamentals objectives. Developed a well-rounded knowledge of various types of software applications along with system understanding in installation, configuration and maintenance of server based systems and network applications."
     },
     {
       name: "Northwest Vista College",
@@ -120,7 +120,7 @@ module.exports = {
   },
   siteUrl: 'https://hpreiss42.github.io/portfolio-cv/',
   pathPrefix: '/portfolio-cv', // Note: it must *not* have a trailing slash.
-  siteCover: '/images/cover.jpg',
+  siteCover: '/images/heroBG.jpg',
   googleAnalyticsId: '',
   background_color: '#ffffff',
   theme_color: '#2f253b',
