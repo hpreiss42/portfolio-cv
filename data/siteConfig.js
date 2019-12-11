@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Hello! I\'m Heather!',
   siteDescription: `Web Developer CV`,
-  keyWords: ['gatsbyjs', 'react', 'curriculum'],
+  keyWords: ['gatsbyjs', 'react'],
   authorName: 'Heather Preiss',
   twitterUsername: '',
   githubUsername: 'hpreiss42',
@@ -45,7 +45,7 @@ module.exports = {
       },
       duration: null,
       occupation: "Web Developer Intern",
-      description: "Create web pages centered on user experience that are aesthetically pleasing, informative and easy to navigate using a variety of programming languages, including HTML, CSS, and Javascript."
+      description: "Create web pages centered on user experience that are aesthetically pleasing, informative and easy to navigate using a variety of programming languages, including HTML, CSS, and JavaScript."
     },
     {
       company: "Corona Visions",
@@ -55,7 +55,7 @@ module.exports = {
       },
       duration: 'August 2018',
       occupation: "Electronic & Equipment Recycling Technician",
-      description: "Technician work in a shop setting and in various capacities to fulfill required duties. This includes diagnostic testing on PC and laptop computers. Troubleshoot and verify functionality of hardware and software components. Set up new systems and perform rutine maintance.<br /> CompTIA A+ certified professional."
+      description: "Technician work in a shop setting and in various capacities to fulfill required duties. This includes diagnostic testing on PC and laptop computer. Troubleshoot and verify functionality of hardware and software components. Set up new systems and perform routine maintenance.  CompTIA A+ certified professional."
     },
     {
       company: "IBEX Global",
@@ -65,7 +65,7 @@ module.exports = {
       },
       duration: 'May 2017',
       occupation: "Customer Support - Tier 1 Technical Support Agent",
-      description: "Call center representative as first point of contact for customers' product issues, provide technical support and assistance to clients and businesses regarding hardware and sofetware issues."
+      description: "Call Center Representatives the first point of contact for customers’ product issues, provide technical support and assistance to clients and businesses regarding hardware and software issues."
     },
     /* ... */
   ],
@@ -108,7 +108,7 @@ module.exports = {
       },
       duration: 'May 2015',
       major: "A.A.S. 3D Animation",
-      description: "Learned skills for 3D modeling, texturing, animation, lighting, and compositing using industry software such as Autodesk 3Ds Max, Maya, Adobe Photoshop, and other programs."
+      description: "Learned skills for 3D modeling, texturing, animation, lighting and composition using industry software such as Autodesk 3Ds Max, Maya, Adobe Photoshop, and other programs."
     },
     /* ... */
   ],
