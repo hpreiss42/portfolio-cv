@@ -45,7 +45,7 @@ module.exports = {
       },
       duration: null,
       occupation: "Web Developer Intern",
-      description: "..."
+      description: "Create web pages centered on user experience that are aesthetically pleasing, informative and easy to navigate using a variety of programming languages, including HTML, CSS, and Javascript."
     },
     {
       company: "Corona Visions",
@@ -55,7 +55,7 @@ module.exports = {
       },
       duration: 'August 2018',
       occupation: "Electronic & Equipment Recycling Technician",
-      description: "..."
+      description: "Technician work in a shop setting and in various capacities to fulfill required duties. This includes diagnostic testing on PC and laptop computers. Troubleshoot and verify functionality of hardware and software components. Set up new systems and perform rutine maintance.<br /> CompTIA A+ certified professional."
     },
     {
       company: "IBEX Global",
@@ -65,7 +65,7 @@ module.exports = {
       },
       duration: 'May 2017',
       occupation: "Customer Support - Tier 1 Technical Support Agent",
-      description: "..."
+      description: "Call center representative as first point of contact for customers' product issues, provide technical support and assistance to clients and businesses regarding hardware and sofetware issues."
     },
     /* ... */
   ],
@@ -98,7 +98,7 @@ module.exports = {
       },
       duration: '8.5 weeks',
       major: "Linux System Administration",
-      description: "..."
+      description: "The OCA provides bootcamp style technical training."
     },
     {
       name: "Northwest Vista College",
@@ -108,7 +108,7 @@ module.exports = {
       },
       duration: 'May 2015',
       major: "A.A.S. 3D Animation",
-      description: "..."
+      description: "Learned skills for 3D modeling, texturing, animation, lighting, and compositing using industry software such as Autodesk 3Ds Max, Maya, Adobe Photoshop, and other programs."
     },
     /* ... */
   ],
