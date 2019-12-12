@@ -113,7 +113,8 @@ module.exports = {
     twitter: "",
     linkedin: "",
     github: "https://github.com/hpreiss42",
-    email: ""
+    email: "",
+    website: "https://photolynnsdesign.com"
   },
   siteUrl: 'https://hpreiss42.github.io/portfolio-cv/',
   pathPrefix: '/portfolio-cv', // Note: it must *not* have a trailing slash.
